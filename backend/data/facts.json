@@ -1,0 +1,22 @@
+{
+    "full_name": "Sree Venkat Chintakula",
+    "name": "Sree",
+    "current_role": "Data Scientist and Data Analyst",
+    "location": "Bloomington, Indiana, USA",
+    "email": "sreevenkat450@gmail.com",
+    "linkedin": "linkedin.com/in/sree-venkat-chintakula-658078211",
+    "github": "https://github.com/Venkat450",
+    "specialties": [
+      "Machine Learning and Predictive Modeling",
+      "Data Engineering and ETL Pipelines",
+      "Generative AI and LLM Applications"
+    ],
+    "years_experience": 3,
+    "education": [
+      {
+        "degree": "Master of Science in Data Science",
+        "institution": "Indiana University Bloomington",
+        "year": "2025"
+      }
+    ]
+  }
